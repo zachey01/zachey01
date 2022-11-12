@@ -1,6 +1,6 @@
 <div align="center">
   
-![](kiss-yaoi.gif)
+<!-- ![](kiss-yaoi.gif) -->
 </div>
 
 # About ME 💬 :
@@ -8,7 +8,11 @@
 ### `- I'm ?? years old junior Front-End developer from ?????.`
 
 
-# Skills
+<details>
+<summary>
+  
+# **Skills**
+</summary>
 
 [![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)]()
 [![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)]()
@@ -31,8 +35,13 @@
 [![](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)]()
 [![](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=Mobx)]()
-
-# Others
+  
+</details>
+<details>
+<summary>
+  
+# **Others**
+</summary>
 
 [![](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)]()
 [![](https://img.shields.io/badge/autoprefixer-black?style=for-the-badge&logo=autoprefixer)]()
@@ -42,6 +51,9 @@
 [![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)]()
 [![](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian)]()
 [![](https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=libreoffice)]()
+[![](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=Mobx)]()
+  
+</details>
 
 # Social
 
@@ -73,3 +85,6 @@
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
+
+
+
