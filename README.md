@@ -1,5 +1,5 @@
 <div align="center">
-<!-- ![](./assets/img/kiss-yaoi.gif) -->
+![](kiss-yaoi.gif)
 </div>
 
 # About ME 💬 :
