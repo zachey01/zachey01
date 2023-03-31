@@ -55,16 +55,7 @@
   
 </details>
 
-# Social
 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![](https://img.shields.io/badge/Discord-2CA5E0?style=for-the-badge&logo=discord&logoColor=white)]()
-[![](https://img.shields.io/badge/CodePen-2CA5E0?style=for-the-badge&logo=codepen&logoColor=white)]()
-[![](https://img.shields.io/badge/Stack_Overflow-2CA5E0?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-
-
-
----
 
 <div align="center">
 
