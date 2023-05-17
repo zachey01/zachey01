@@ -70,6 +70,8 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test](https://t.me/zachey_articles/2)
+- [🔧 Channel created](https://t.me/zachey_articles/1)
 <!-- BLOG-POST-LIST:END -->
 
 
