@@ -70,8 +70,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [fhg](https://t.me/zachey_articles/4)
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq...](https://t.me/zachey_articles/3)
 - [test](https://t.me/zachey_articles/2)
-- [🔧 Channel created](https://t.me/zachey_articles/1)
+- [Channel created](https://t.me/zachey_articles/1)
 <!-- BLOG-POST-LIST:END -->
 
 
