@@ -1,18 +1,40 @@
+# Zachey 👋
+
 <div align="center">
-  
-<!-- ![](kiss-yaoi.gif) -->
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/start_boys.gif">
 </div>
+
+</br>
+</br>
+</br>
 
 # About ME 💬 :
 
-### `- I'm ?? years old junior Front-End developer from ?????.`
+### - I'm ?? years old Beginner JS developer from ??????.
 
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/eren.gif">
 
-<details>
-<summary>
-  
-# **Skills**
-</summary>
+### - Learning :
+
+- ✨ FrontEnd/JS development
+- ✨ Computer Science
+
+### - Hobbies :
+
+- ✨ Video games/Visual hovels
+- ✨ Watching Anime/Serials
+- ✨ Listening music
+- ✨ Reading books and manga
+
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+
+</br>
+
+<p align="center">
 
 [![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)]()
 [![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)]()
@@ -30,41 +52,42 @@
 [![](https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp)]()
 [![](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=)]()
 [![](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)]()
-[![](https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=Bulma)]()
 [![](https://img.shields.io/badge/Foundation-black?style=for-the-badge&logo=Foundation)]()
 [![](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)]()
 [![](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=Mobx)]()
+
+</p>
+</br>
+</br>
+</br>
+
+# Contact Me :
+
+<p>
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="tg://resolve?domain=zacheybot">
+ <img align="left" alt="Telegram" width="130" hight="110" src=" 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://steamcommunity.com/id/zachey01/">
+ <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+<a href="https://steamcommunity.com/id/zachey01/">
+ <img align="left" alt="Discord" width="130" hight="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</br>
+</br>
+</br>
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=zachey01&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
   
-</details>
-<details>
-<summary>
-  
-# **Others**
-</summary>
+# Blog posts
 
-[![](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)]()
-[![](https://img.shields.io/badge/autoprefixer-black?style=for-the-badge&logo=autoprefixer)]()
-[![](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=Prettier)]()
-[![](https://img.shields.io/badge/filezilla-black?style=for-the-badge&logo=filezilla)]()
-[![](https://img.shields.io/badge/vscodium-black?style=for-the-badge&logo=vscodium)]()
-[![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)]()
-[![](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian)]()
-[![](https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=libreoffice)]()
-[![](https://img.shields.io/badge/Mobx-black?style=for-the-badge&logo=Mobx)]()
-  
-</details>
-
-
-
-<div align="center">
-
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=zachey01)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachey01&show_icons=true&)
-
-![](https://komarev.com/ghpvc/?username=zachey01)
-</div>
-
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
