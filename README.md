@@ -1,7 +1,7 @@
 # Zachey 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/start_boys.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/start_boys.gif.">
 </div>
 
 </br>
@@ -68,7 +68,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="tg://resolve?domain=zacheybot">
+<a href="https://t.me/zacheybot">
  <img align="left" alt="Telegram" width="130" hight="110" src=" 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/zachey01/">
@@ -87,7 +87,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
   </p>
   
-# Blog posts
+# Blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# Spotify
+
+<center>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zh3bayw4ebc3if6ukmswm4kg6i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</center>
