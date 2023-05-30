@@ -90,8 +90,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [fhg](https://t.me/zachey_articles/4)
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q...](https://t.me/zachey_articles/3)
-- [test](https://t.me/zachey_articles/2)
-- [🔧 Channel created](https://t.me/zachey_articles/1)
+- [Неочивидное использование Obsidian](https://medium.com/@bjzachey/%D0%BD%D0%B5%D0%BE%D1%87%D0%B8%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-obsidian-abc4e6df819d?source=rss-717f08f85402------2)
 <!-- BLOG-POST-LIST:END -->
