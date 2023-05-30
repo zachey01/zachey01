@@ -1,7 +1,7 @@
 # Zachey 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/start_boys.gif.">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/start_boys.gif">
 </div>
 
 </br>
