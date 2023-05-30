@@ -91,11 +91,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-# Spotify
-
-<center>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zh3bayw4ebc3if6ukmswm4kg6i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</center>
