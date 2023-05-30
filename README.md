@@ -69,7 +69,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="https://t.me/zacheybot">
- <img align="left" alt="Telegram" width="130" hight="110" src=" 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ <img align="left" alt="Telegram" width="130" hight="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://steamcommunity.com/id/zachey01/">
  <img align="left" alt="Steam" width="130" hight="100" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
