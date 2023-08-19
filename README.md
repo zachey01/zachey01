@@ -7,7 +7,6 @@ const me = {
   color: "Pink",
   website: "https://zachey.space",
 };
-document.write(me)
 ```
 <br>
 <p align="center">
