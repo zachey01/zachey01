@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/zachey01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zachey01" height="30" width="40" /></a>
 <a href="https://twitter.com/zachey010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zachey010" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zachey3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zachey3d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zachey3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zachey3d" height="30" width="40" /></a>
 <a href="https://discord.gg/gJVk4J4TVN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gJVk4J4TVN" height="30" width="40" /></a>
 </p>
 
