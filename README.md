@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachey01&label=Profile%20views&color=0e75b6&style=flat" alt="zachey01" /> </p>
 
-- 🔭 I’m currently working on [ShadowSeek AI](shadowseek.ru)
+- 🔭 I’m currently working on [ShadowSeek AI](https://shadowseek.ru)
 
 - 🌱 I’m currently learning **Blender, GOlang**
 
-- 🤝 I’m looking for help with [MimiCMS](mimicms.zachey.space)
-
-- 👨‍💻 All of my projects are available at [https://github.com/zachey01](https://github.com/zachey01)
+- 🤝 I’m looking for help with [MimiCMS](https://mimicms.zachey.space)
 
 - 📝 I regularly write articles on [https://zachey.space/blog](https://zachey.space/blog)
 
