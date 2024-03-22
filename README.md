@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ShadowSeek AI](https://shadowseek.ru)
 
-- 🌱 I’m currently learning **Blender, GOlang**
+- 🌱 I’m currently learning **Blender, Go lang**
 
 - 🤝 I’m looking for help with [MimiCMS](https://mimicms.zachey.space)
 
