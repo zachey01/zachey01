@@ -2,7 +2,7 @@
 
 <h3 align="center">Fullstack developer/gamedev</h3>
 
-- 🔭 I’m currently working on [ShadowSeek AI](https://shadowseek.ru)
+- 🔭 I’m currently working on [GPT4js](https://github.com/zachey01/gpt4free.js)
 
 - 🌱 I’m currently learning **Blender, Go lang**
 
